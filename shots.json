@@ -1,0 +1,6 @@
+[
+  { "name": "1-title.jpg", "query": "?shot=start&seed=114" },
+  { "name": "2-drift.jpg", "query": "?shot=play&seed=114" },
+  { "name": "3-dark-closes.jpg", "query": "?shot=over&seed=114" },
+  { "name": "4-escaped.jpg", "query": "?shot=win&seed=114" }
+]
